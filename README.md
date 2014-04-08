@@ -1,0 +1,1 @@
+git add -- add all changes, including new file and modified files.
